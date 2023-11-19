@@ -1,0 +1,37 @@
+[
+  {
+    "name": "vetrii vel",
+    "director": "murugan",
+    "release_year": 2023,
+    "language": "tamil",
+    "rating": 10.0
+  },
+  {
+    "name": "hii",
+    "director": "helloen",
+    "release_year": 2022,
+    "language": "tamil",
+    "rating": 7.0
+  },
+  {
+    "name": "vikram",
+    "director": "lokesh",
+    "release_year": 2022,
+    "language": "tamil",
+    "rating": 10.0
+  },
+  {
+    "name": "The Pursuit of Happyness",
+    "director": "gabriele",
+    "release_year": 2006,
+    "language": "english",
+    "rating": 10.0
+  },
+  {
+    "name": "xyz",
+    "director": "abc",
+    "release_year": 2000,
+    "language": "bengalii",
+    "rating": 8.0
+  }
+]
